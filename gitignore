@@ -1,0 +1,21 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compiled files
+*.class
+out/
+target/
+
+# Secrets and environment configuration
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Temporary files
+.DS_Store
+Thumbs.db
