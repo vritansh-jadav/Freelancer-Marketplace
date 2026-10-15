@@ -30,7 +30,7 @@ A project focused on connecting freelancers and clients through a database-backe
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/Vritanshjadav
+- GitHub: https://github.com/vritansh-jadav
 - LinkedIn: www.linkedin.com/in/vritansh-jadav-9a0a36386
 
   
