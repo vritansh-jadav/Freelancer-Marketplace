@@ -1,41 +1,50 @@
-# Hi, I'm Vritansh Jadav 👋
+# Freelancer Marketplace 🚀
 
-💻 **Developer | Java | Web Development | MySQL**
+A Java-based software project designed to connect clients and freelancers through a centralized marketplace.
 
-I enjoy building practical software projects and digital solutions. I'm continuously improving my development skills by working on real-world applications.
+## 📌 Project Overview
 
-## 🛠️ Tech Stack
+Freelancer Marketplace aims to organize freelance project activities and provide a foundation for managing clients, freelancers, project listings, applications, and ratings.
 
-- **Languages:** Java, Python
-- **Web:** HTML, CSS
-- **Database:** MySQL, SQL
-- **Hardware & IoT:** Arduino, Sensors
+## 🛠️ Technologies Used
 
-## 🚀 Featured Projects
+- Java
+- MySQL (database setup pending)
+- JDBC, if used in the current implementation
+- IntelliJ IDEA
 
-🔹 **Student Life Management System**  
-A Java application for academic performance analysis, CGPA calculation, and scholarship eligibility.
+## ✨ Project Modules
 
-🔹 **Smart Medicine Reminder System**  
-An IoT project designed to provide medicine reminders and detect missed doses.
+- User management
+- Freelancer management
+- Project management
+- Application management
+- Rating management
+- Admin services
 
-🔹 **FreelancerHub**  
-A project focused on connecting freelancers and clients through a database-backed application.
+*Module descriptions should be updated to reflect the functionality currently implemented in the source code.*
 
-## 🎯 Current Goals
+## 📂 Project Structure
 
-- Build practical software projects
-- Improve problem-solving and coding skills
-- Develop a strong portfolio for freelance opportunities
+- `src/` — Java source code
+- `src/database/` — Database-related Java classes
+- `src/service/` — Application service classes
+- `src/Main.java` — Application entry point
 
-## 🤝 Connect With Me
+## ⚙️ Setup
 
-- GitHub: https://github.com/vritansh-jadav
-- LinkedIn: www.linkedin.com/in/vritansh-jadav-9a0a36386
+1. Clone or download this repository.
+2. Open the project in IntelliJ IDEA.
+3. Configure the required Java environment.
+4. Restore or recreate the MySQL database before running database-dependent features.
 
-  
-Database setup: The original database backup is currently unavailable. Database schema and setup instructions will be added after reconstruction.
+## 🚧 Project Status
 
----
+Java source code uploaded to GitHub. Database reconstruction and setup documentation are pending.
 
-⭐ Thanks for visiting my profile!
+## 👨‍💻 Author
+
+Vritansh Jadav
+
+- GitHub: (https://github.com/vritansh-jadav)
+- LinkedIn:(https://www.linkedin.com/in/vritansh-jadav-9a0a36386)
